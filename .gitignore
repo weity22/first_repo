@@ -1,0 +1,5 @@
+obj
+*.sln
+*.csproj
+.vsconfig
+.vs
